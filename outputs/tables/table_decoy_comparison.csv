@@ -1,0 +1,12 @@
+series,t_s,eta_total,SKR_bps
+finite_key_2decoy,0.00,1.4645e-03,4.0423e+03
+finite_key_2decoy,44.17,1.0741e-03,5.9931e+02
+finite_key_2decoy,88.35,5.3229e-04,1.0921e+02
+finite_key_2decoy,132.52,2.5055e-04,0.0000e+00
+multi_decoy_asymptotic,-171.39,1.2997e-04,0.0000e+00
+multi_decoy_asymptotic,-93.29,4.8930e-04,0.0000e+00
+multi_decoy_asymptotic,-32.98,1.2362e-03,2.2070e+02
+multi_decoy_asymptotic,0.00,1.4645e-03,3.1729e+03
+multi_decoy_asymptotic,32.98,1.2362e-03,2.2070e+02
+multi_decoy_asymptotic,93.29,4.8930e-04,0.0000e+00
+multi_decoy_asymptotic,171.39,1.2997e-04,0.0000e+00

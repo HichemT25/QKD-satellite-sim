@@ -1,0 +1,10 @@
+metric,value,unit
+eta_total_max,1.4645e-03,dimensionless
+eta_total_min,1.1242e-05,dimensionless
+QBER_low_elevation,34.39,percent
+QBER_high_elevation,2.75,percent
+QBER_max_threshold,9.88,percent
+SKR_peak,1.3589e+04,bits_per_second
+link_availability,60.0,percent
+total_visibility_duration,589.1,seconds
+effective_key_window,353.4,seconds
